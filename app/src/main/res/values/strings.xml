@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProfileCorrect</string>
+    <string name="txtName">Enok Dragon</string>
+    <string name="txtButtonProfile">View Profile</string>
+    <string name="txtProfileInformation">Hi my name is Enok \n \n I\'ve been sicker than a dog this week
+    \n \n I am a student and cannabis dispensing agent at Earthmed</string>
+</resources>
